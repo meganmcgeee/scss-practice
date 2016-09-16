@@ -1,0 +1,11 @@
+$lightgray: #eee;
+$darkblue: #008;
+
+
+body {
+  background-color: $lightgray;
+
+  p {
+    color: $darkblue;
+  }
+}
